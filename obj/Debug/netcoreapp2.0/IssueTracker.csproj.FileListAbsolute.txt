@@ -1,0 +1,10 @@
+/Users/nuttapon/Angular/Angular4/IssueTracker/bin/Debug/netcoreapp2.0/IssueTracker.deps.json
+/Users/nuttapon/Angular/Angular4/IssueTracker/bin/Debug/netcoreapp2.0/IssueTracker.runtimeconfig.json
+/Users/nuttapon/Angular/Angular4/IssueTracker/bin/Debug/netcoreapp2.0/IssueTracker.runtimeconfig.dev.json
+/Users/nuttapon/Angular/Angular4/IssueTracker/bin/Debug/netcoreapp2.0/IssueTracker.dll
+/Users/nuttapon/Angular/Angular4/IssueTracker/bin/Debug/netcoreapp2.0/IssueTracker.pdb
+/Users/nuttapon/Angular/Angular4/IssueTracker/obj/Debug/netcoreapp2.0/IssueTracker.csproj.CoreCompileInputs.cache
+/Users/nuttapon/Angular/Angular4/IssueTracker/obj/Debug/netcoreapp2.0/IssueTracker.AssemblyInfoInputs.cache
+/Users/nuttapon/Angular/Angular4/IssueTracker/obj/Debug/netcoreapp2.0/IssueTracker.AssemblyInfo.cs
+/Users/nuttapon/Angular/Angular4/IssueTracker/obj/Debug/netcoreapp2.0/IssueTracker.dll
+/Users/nuttapon/Angular/Angular4/IssueTracker/obj/Debug/netcoreapp2.0/IssueTracker.pdb
